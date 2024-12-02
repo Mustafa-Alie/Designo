@@ -17,7 +17,7 @@ import GraphicDesign from "./pages/GraghicDesign";
 //define React Router
 const router = createBrowserRouter([
   {
-    path: "/",
+    path: "/Designo",
     element: <MainLayout />,
     children: [
       {
