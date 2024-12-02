@@ -43,7 +43,7 @@ function AppNav() {
 
           <Navbar.Collapse id="mainNavbar">
             <Nav className="ms-auto">
-              <Nav.Link as={Link} to="/" className="bg-md-white">
+              <Nav.Link as={Link} to="/Designo" className="bg-md-white">
                 OUR COMPANY
               </Nav.Link>
 
