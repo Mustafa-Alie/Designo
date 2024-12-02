@@ -47,7 +47,7 @@ function AppFooter() {
         <Container fluid="md" className="p-0">
           <Nav className="footer-nav pb-4 d-flex flex-column flex-md-row justify-content-between align-items-center gap-3">
             <Nav.Item className="bottom-border">
-              <Nav.Link as={Link} to="/" className="">
+              <Nav.Link as={Link} to="/Designo" className="">
                 <img
                   src={logoLight}
                   alt="Brand Logo"
@@ -59,7 +59,7 @@ function AppFooter() {
 
             <div className="d-flex flex-column flex-md-row ">
               <Nav.Item>
-                <Nav.Link as={Link} to="/" className="text-white">
+                <Nav.Link as={Link} to="/Designo" className="text-white">
                   OUR COMPANY
                 </Nav.Link>
               </Nav.Item>
