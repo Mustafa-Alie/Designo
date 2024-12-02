@@ -16,7 +16,7 @@ function AppFooter() {
 
   return (
     <footer className="mt-5">
-      {location.pathname !== "/contact" && (
+      {location.pathname !== "/Designo/contact" && (
         <section
           className="contact-us w-85 text-white rounded-4 d-flex flex-column flex-lg-row justify-content-between align-items-center gap-3 z-2 position-relative"
           style={{ marginBottom: "-5%" }}
