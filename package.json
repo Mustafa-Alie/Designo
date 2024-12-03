@@ -1,9 +1,9 @@
 {
-  "homepage": "https://mustafa-alie.github.io/Designo",
   "name": "designo",
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://mustafa-alie.github.io/Designo",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
