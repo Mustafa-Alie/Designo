@@ -190,7 +190,7 @@ function Contact() {
 
             <Button
               as={Link}
-              to="/locations"
+              to="/Designo/locations"
               variant="warning"
               size="lg"
               className="text-white"
@@ -215,7 +215,7 @@ function Contact() {
 
             <Button
               as={Link}
-              to="/locations"
+              to="/Designo/locations"
               variant="warning"
               size="lg"
               className="text-white"
@@ -240,7 +240,7 @@ function Contact() {
 
             <Button
               as={Link}
-              to="/locations"
+              to="/Designo/locations"
               variant="warning"
               size="lg"
               className="text-white"
