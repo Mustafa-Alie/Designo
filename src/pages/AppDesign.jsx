@@ -152,7 +152,7 @@ function AppDesign() {
             className="d-flex flex-column justify-content-center align-items-center"
           >
             <Link
-              to="/design/web-design"
+              to="Designo/design/web-design"
               className="design-container d-flex mb-3 position-relative"
             >
               <picture className="web-img  position-relative rounded-5 overflow-hidden">
@@ -188,7 +188,7 @@ function AppDesign() {
             className="d-flex flex-column justify-content-start align-items-center"
           >
             <Link
-              to="/design/graphic-design"
+              to="Designo/design/graphic-design"
               className="design-container d-flex position-relative overflow-hidden"
             >
               <picture className="web-img  position-relative rounded-5 overflow-hidden">
