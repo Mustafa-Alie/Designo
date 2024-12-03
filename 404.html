@@ -4,9 +4,10 @@
     <meta http-equiv="refresh" content="0; url=/Designo" />
     
     <script type="text/javascript">
-        // Redirect all 404 requests to the index.html file
-        let pathname = window.location.pathname;
-        window.location.href = "/Designo" + pathname;
+        if (!window.location.pathname.startsWith('/Designo')) {
+        window.location.href = '/Designo' + window.location.pathname;
+    }
+        
     </script>
   </head>
   <body></body>
