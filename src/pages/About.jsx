@@ -121,7 +121,7 @@ function About() {
 
             <Button
               as={Link}
-              to="/locations"
+              to="/Designo/locations"
               variant="warning"
               size="lg"
               className="text-white"
@@ -146,7 +146,7 @@ function About() {
 
             <Button
               as={Link}
-              to="/locations"
+              to="/Designo/locations"
               variant="warning"
               size="lg"
               className="text-white"
@@ -171,7 +171,7 @@ function About() {
 
             <Button
               as={Link}
-              to="/locations"
+              to="/Designo/locations"
               variant="warning"
               size="lg"
               className="text-white"
